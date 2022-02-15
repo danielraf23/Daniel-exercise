@@ -1,0 +1,37 @@
+97254@Rafa-computer MINGW64 ~
+$ cd ..
+
+97254@Rafa-computer MINGW64 /c/Users
+$ cd ..
+
+97254@Rafa-computer MINGW64 /c
+$ cd sony_project
+
+97254@Rafa-computer MINGW64 /c/sony_project
+$ cd python
+
+97254@Rafa-computer MINGW64 /c/sony_project/python
+$ mkdir hello_world_py
+
+97254@Rafa-computer MINGW64 /c/sony_project/python
+$ cd hello_world_py
+
+97254@Rafa-computer MINGW64 /c/sony_project/python/hello_world_py
+$ touch hello_world2_py
+
+97254@Rafa-computer MINGW64 /c/sony_project/python/hello_world_py
+$ rm hello_world2_py
+
+97254@Rafa-computer MINGW64 /c/sony_project/python/hello_world_py
+$ touch hello_world.py
+
+97254@Rafa-computer MINGW64 /c/sony_project/python/hello_world_py
+$ vi hello_world.py
+
+print('Hello,world!')
+:wq
+
+
+97254@Rafa-computer MINGW64 /c/sony_project/python/hello_world_py
+$ python hello_world.py
+Hello, world!
